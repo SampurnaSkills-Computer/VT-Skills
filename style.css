@@ -1,0 +1,31 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+.header {
+  background-color: #FFFFFF;
+  overflow: hidden;
+  width: 1099px;
+}
+
+.header img {
+  float: center;
+  padding: 5px;
+}
+
+.FOOTER {
+  background-color: #000000;
+  overflow: hidden;
+  width: 1099px;
+}
+
+body {
+  background-image: url("44.jpg");
+  display: block;
+}
+
+#vd {
+  text-decoration: none;
+}
+
